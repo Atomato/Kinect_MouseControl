@@ -1,0 +1,8 @@
+c:\users\ato\documents\visual studio 2017\Projects\Kinect_MouseControl\Kinect_MouseControl\bin\Debug\Kinect_MouseControl.exe.config
+c:\users\ato\documents\visual studio 2017\Projects\Kinect_MouseControl\Kinect_MouseControl\bin\Debug\Kinect_MouseControl.exe
+c:\users\ato\documents\visual studio 2017\Projects\Kinect_MouseControl\Kinect_MouseControl\bin\Debug\Kinect_MouseControl.pdb
+c:\users\ato\documents\visual studio 2017\Projects\Kinect_MouseControl\Kinect_MouseControl\bin\Debug\Microsoft.Kinect.dll
+c:\users\ato\documents\visual studio 2017\Projects\Kinect_MouseControl\Kinect_MouseControl\bin\Debug\Microsoft.Kinect.xml
+c:\users\ato\documents\visual studio 2017\Projects\Kinect_MouseControl\Kinect_MouseControl\obj\Debug\Kinect_MouseControl.csprojResolveAssemblyReference.cache
+c:\users\ato\documents\visual studio 2017\Projects\Kinect_MouseControl\Kinect_MouseControl\obj\Debug\Kinect_MouseControl.exe
+c:\users\ato\documents\visual studio 2017\Projects\Kinect_MouseControl\Kinect_MouseControl\obj\Debug\Kinect_MouseControl.pdb
